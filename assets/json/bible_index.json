@@ -1,0 +1,398 @@
+[
+    {
+      "Index": 1,
+      "Tbook": "Aathiyagamam",
+      "Ebook": "Genesis",
+      "": ""
+    },
+    {
+      "Index": 2,
+      "Tbook": "Yathiragamam",
+      "Ebook": "Exodus",
+      "": ""
+    },
+    {
+      "Index": 3,
+      "Tbook": "Leviyaragamam",
+      "Ebook": "Leviticus",
+      "": ""
+    },
+    {
+      "Index": 4,
+      "Tbook": "Yennagamam",
+      "Ebook": "Numbers",
+      "": ""
+    },
+    {
+      "Index": 5,
+      "Tbook": "Ubaagamam",
+      "Ebook": "Deuteronomy",
+      "": ""
+    },
+    {
+      "Index": 6,
+      "Tbook": "Yosuva",
+      "Ebook": "Joshua",
+      "": ""
+    },
+    {
+      "Index": 7,
+      "Tbook": "Niyathipathigal",
+      "Ebook": "Judges",
+      "": ""
+    },
+    {
+      "Index": 8,
+      "Tbook": "Ruth",
+      "Ebook": "Ruth",
+      "": ""
+    },
+    {
+      "Index": 9,
+      "Tbook": "1 Samuel",
+      "Ebook": "1 Samuel",
+      "": ""
+    },
+    {
+      "Index": 10,
+      "Tbook": "2 Samuel",
+      "Ebook": "2 Samuel",
+      "": ""
+    },
+    {
+      "Index": 11,
+      "Tbook": "1 Rajaakal",
+      "Ebook": "1 Kings",
+      "": ""
+    },
+    {
+      "Index": 12,
+      "Tbook": "2 Rajaakal",
+      "Ebook": "2 Kings",
+      "": ""
+    },
+    {
+      "Index": 13,
+      "Tbook": "1 Naalaagamam",
+      "Ebook": "1 Chronicles",
+      "": ""
+    },
+    {
+      "Index": 14,
+      "Tbook": "2 Naalaagamam",
+      "Ebook": "2 Chronicles",
+      "": ""
+    },
+    {
+      "Index": 15,
+      "Tbook": "Ezra",
+      "Ebook": "Ezra",
+      "": ""
+    },
+    {
+      "Index": 16,
+      "Tbook": "Negemia",
+      "Ebook": "Nehemiah",
+      "": ""
+    },
+    {
+      "Index": 17,
+      "Tbook": "Ester",
+      "Ebook": "Esther",
+      "": ""
+    },
+    {
+      "Index": 18,
+      "Tbook": "Yobu",
+      "Ebook": "Job",
+      "": ""
+    },
+    {
+      "Index": 19,
+      "Tbook": "Sangeetham",
+      "Ebook": "Psalms",
+      "": ""
+    },
+    {
+      "Index": 20,
+      "Tbook": "Neethimoligal",
+      "Ebook": "Proverbs",
+      "": ""
+    },
+    {
+      "Index": 21,
+      "Tbook": "Pirasangi",
+      "Ebook": "Ecclesiastes",
+      "": ""
+    },
+    {
+      "Index": 22,
+      "Tbook": "Unaathapaatu",
+      "Ebook": "Song of Solomon",
+      "": ""
+    },
+    {
+      "Index": 23,
+      "Tbook": "Esaayaa",
+      "Ebook": "Isaiah",
+      "": ""
+    },
+    {
+      "Index": 24,
+      "Tbook": "Eremia",
+      "Ebook": "Jeremiah",
+      "": ""
+    },
+    {
+      "Index": 25,
+      "Tbook": "Pulambal",
+      "Ebook": "Lamentations",
+      "": ""
+    },
+    {
+      "Index": 26,
+      "Tbook": "Ezekiyel",
+      "Ebook": "Ezekiel",
+      "": ""
+    },
+    {
+      "Index": 27,
+      "Tbook": "Daniel",
+      "Ebook": "Daniel",
+      "": ""
+    },
+    {
+      "Index": 28,
+      "Tbook": "Osia",
+      "Ebook": "Hosea",
+      "": ""
+    },
+    {
+      "Index": 29,
+      "Tbook": "Yovel",
+      "Ebook": "Joel",
+      "": ""
+    },
+    {
+      "Index": 30,
+      "Tbook": "Amos",
+      "Ebook": "Amos",
+      "": ""
+    },
+    {
+      "Index": 31,
+      "Tbook": "Opathiya",
+      "Ebook": "Obadiah",
+      "": ""
+    },
+    {
+      "Index": 32,
+      "Tbook": "Yona",
+      "Ebook": "Jonah",
+      "": ""
+    },
+    {
+      "Index": 33,
+      "Tbook": "Migaa",
+      "Ebook": "Micah",
+      "": ""
+    },
+    {
+      "Index": 34,
+      "Tbook": "Naagum",
+      "Ebook": "Nahum",
+      "": ""
+    },
+    {
+      "Index": 35,
+      "Tbook": "Abakuk",
+      "Ebook": "Habakkuk",
+      "": ""
+    },
+    {
+      "Index": 36,
+      "Tbook": "Sepaniyaa",
+      "Ebook": "Zephaniah",
+      "": ""
+    },
+    {
+      "Index": 37,
+      "Tbook": "Aagai",
+      "Ebook": "Haggai",
+      "": ""
+    },
+    {
+      "Index": 38,
+      "Tbook": "Sakariya",
+      "Ebook": "Zechariah",
+      "": ""
+    },
+    {
+      "Index": 39,
+      "Tbook": "Malgiya",
+      "Ebook": "Malachi",
+      "": ""
+    },
+    {
+      "Index": 40,
+      "Tbook": "Maththeyu",
+      "Ebook": "Matthew",
+      "": ""
+    },
+    {
+      "Index": 41,
+      "Tbook": "Maarku",
+      "Ebook": "Mark",
+      "": ""
+    },
+    {
+      "Index": 42,
+      "Tbook": "Lukaa",
+      "Ebook": "Luke",
+      "": ""
+    },
+    {
+      "Index": 43,
+      "Tbook": "Yowaan",
+      "Ebook": "John",
+      "": ""
+    },
+    {
+      "Index": 44,
+      "Tbook": "Aposthalar-Nadapatigal",
+      "Ebook": "Acts",
+      "": ""
+    },
+    {
+      "Index": 45,
+      "Tbook": "Romar",
+      "Ebook": "Romans",
+      "": ""
+    },
+    {
+      "Index": 46,
+      "Tbook": "1 Coronthiyar",
+      "Ebook": "1 Corinthians",
+      "": ""
+    },
+    {
+      "Index": 47,
+      "Tbook": "2 Coronthiyar",
+      "Ebook": "2 Corinthians",
+      "": ""
+    },
+    {
+      "Index": 48,
+      "Tbook": "Kalaathiyar",
+      "Ebook": "Galatians",
+      "": ""
+    },
+    {
+      "Index": 49,
+      "Tbook": "Epesiyar",
+      "Ebook": "Ephesians",
+      "": ""
+    },
+    {
+      "Index": 50,
+      "Tbook": "Pilipiyar",
+      "Ebook": "Philippians",
+      "": ""
+    },
+    {
+      "Index": 51,
+      "Tbook": "Colesiyar",
+      "Ebook": "Colossians",
+      "": ""
+    },
+    {
+      "Index": 52,
+      "Tbook": "1 Thesalonikeyar",
+      "Ebook": "1 Thessalonians",
+      "": ""
+    },
+    {
+      "Index": 53,
+      "Tbook": "2 Thesalonikeyar",
+      "Ebook": "2 Thessalonians",
+      "": ""
+    },
+    {
+      "Index": 54,
+      "Tbook": "1 Theemoththeyu",
+      "Ebook": "1 Timothy",
+      "": ""
+    },
+    {
+      "Index": 55,
+      "Tbook": "2 Theemoththeyu",
+      "Ebook": "2 Timothy",
+      "": ""
+    },
+    {
+      "Index": 56,
+      "Tbook": "Theethu",
+      "Ebook": "Titus",
+      "": ""
+    },
+    {
+      "Index": 57,
+      "Tbook": "Pelemon",
+      "Ebook": "Philemon",
+      "": ""
+    },
+    {
+      "Index": 57,
+      "Tbook": "Ebireyar",
+      "Ebook": "Hebrews",
+      "": ""
+    },
+    {
+      "Index": 58,
+      "Tbook": "Yakobu",
+      "Ebook": "James",
+      "": ""
+    },
+    {
+      "Index": 60,
+      "Tbook": "1 Pedhuru",
+      "Ebook": "1 Peter",
+      "": ""
+    },
+    {
+      "Index": 61,
+      "Tbook": "2 Pedhuru",
+      "Ebook": "2 Peter",
+      "": ""
+    },
+    {
+      "Index": 62,
+      "Tbook": "1 Yowaan",
+      "Ebook": "1 John",
+      "": ""
+    },
+    {
+      "Index": 63,
+      "Tbook": "2 Yowaan",
+      "Ebook": "2 John",
+      "": ""
+    },
+    {
+      "Index": 64,
+      "Tbook": "3 Yowaan",
+      "Ebook": "3 John",
+      "": ""
+    },
+    {
+      "Index": 65,
+      "Tbook": "Yudha",
+      "Ebook": "Jude",
+      "": ""
+    },
+    {
+      "Index": 66,
+      "Tbook": "Velipaduthina Visesam",
+      "Ebook": "Revelation",
+      "": ""
+    }
+  ]
